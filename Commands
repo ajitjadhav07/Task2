@@ -1,0 +1,33 @@
+### after uploading file to git account
+runned this commands on putty by connectig to server..
+clone the git repository to the account and 
+give the permission to the file names "audit_and_hardening.sh"..
+"chmod +x audit_and_hardening.sh"
+
+run the file to check results 
+"./audit_and_hardening.sh"
+
+
+
+sudo apt get update
+  204  sudo apt-get update
+  205  sudo dnf update
+  206  sudp yum install git
+  207  sudo yum install git
+  208  sudo systemctl start git
+  209  git clone https://github.com/ajitjadhav07/Task2.git
+  210  git status
+  211  ls
+  212  cd Task2/
+  213  ls
+  214  chmod +x audit_and_hardening.sh
+  215  ls
+  216  ./audit_and_hardening.sh
+  217  history
+  218  less audit_and_hardening.sh
+  219  sudo ./audit_and_hardening.sh | tee audit_and_hardening.txt
+  220  history
+[ec2-user@ip-172-31-38-145 Task2]$ 
+
+
+## checkout results after running sh file
